@@ -40,33 +40,33 @@ export const PROJECTS = [
     image: project1,
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+    technologies: ["Java", "Springboot", "Thymeleaf", "Hibernate", "MySQL"],
   },
   {
-    title: "Task Management App",
+    title: "NFT Transaction System",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "NFT Transaction System (NTS) is an application used to buy and sell NFT’s using USD and Ethereum.",
+    technologies: ["Python", "Flask", "MySQL"],
   },
   {
-    title: "Portfolio Website",
+    title: "Comparative study of Machine Translation Systems",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+      "A WebApp for text conversion from English to Hindi after generating a caption from an image",
+    technologies: ["Python","TensorFlow", "PyTorch", "CNN", "LSTM"],
   },
   {
-    title: "Blogging Platform",
+    title: "Bookstore Application",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "This project is a full-stack web application for managing a collection of books.",
+    technologies: ["Node.js", "Express", "MongoDB", "React", "Vite", "Tailwind CSS"],
   },
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "7575 Frankford Rd, Dallas, TX, 75252 ",
+  phoneNo: "(+1) 945-244-8745 ",
+  email: "mxj210065@utdallas.edu",
 };
