@@ -3,7 +3,7 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate software engineer with a knack for crafting robust and scalable web applications. Through my internship experiences, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I am a passionate software engineer with a knack for crafting robust and scalable web applications. Through my professional and academic experiences, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
 export const ABOUT_TEXT = `I am a dedicated full stack developer and software engineer with a strong foundation in both front-end and back-end technologies. Through my diverse experiences, including internships and professional roles, I've developed a passion for creating efficient and user-friendly web applications. I have expertise in technologies such as React, Node.js, PostgreSQL, and Docker, and I'm committed to leveraging these skills to deliver innovative solutions. My academic background, complemented by practical projects and certifications, fuels my enthusiasm for continuous learning and growth in the tech industry.`;
 
