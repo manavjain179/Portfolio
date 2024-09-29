@@ -9,8 +9,22 @@ export const ABOUT_TEXT = `I am a dedicated full stack developer and software en
 
 export const EXPERIENCES = [
   {
-    year: "June 2023 - Present",
+    year: "September 2024 - Present",
     role: "Software Engineer",
+    company: "Motus Nova",
+    description: ``,
+    technologies: ["React.js", "Node.js", "PostgreSQL","AWS"],
+  },
+  {
+    year: "August 2024 - September 2024",
+    role: "Web Developer",
+    company: "Collin College",
+    description: `Created a self-service cross-listing web application in Canvas, enabling instructors to easily manage course and section listings, enhancing course administration. Automated course data reporting using the Canvas API and Power Automate, streamlining report delivery to management. Developed a Python script for user account deactivation in Canvas, improving security by disconnecting devices and terminating active sessions.`,
+    technologies: ["Python", "Flask", "REST APIs", "Instructure Canvas"],
+  },
+  {
+    year: "June 2023 - May 2024",
+    role: "Software Engineer Intern",
     company: "CyberForce|Q",
     description: `Designed and developed high-performing websites with integrated responsiveness and search engine optimizations 
 using WiX, resulting in a notable 15% increase in website traffic. Demonstrated expertise in containerization by implementing multi-stage Docker builds for Flask and FastAPI
@@ -20,14 +34,14 @@ of over 30 custom Python codes to enhance investigation and response capabilitie
   },
   {
     year: "May 2021 - June 2021",
-    role: "Frontend Developer",
+    role: "Frontend Developer Intern",
     company: "GOLS EdTech Pvt. Ltd.",
     description: `Enhanced the efficiency and user-friendliness of a Learning Management System (LMS) website, leading to a notable 12% increase in website traffic. `,
     technologies: ["HTML", "CSS", "JavaScript", "jQuery", "Bootstrap"],
   },
   {
     year: "August 2020 - March 2021",
-    role: "Full Stack Developer",
+    role: "Full Stack Developer Intern",
     company: "DY Patil University",
     description: `Built a system to manage transcript data for 1000+ students pursuing Bachelor of Dental Surgery degree. Engineered a data management system to reduce manual work by 70%, reducing the risk of data duplication and errors.`,
     technologies: ["PHP", "MySQL", "HTML", "CSS", "Bootstrap"],
