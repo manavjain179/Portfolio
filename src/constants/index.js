@@ -12,8 +12,8 @@ export const EXPERIENCES = [
     year: "September 2024 - Present",
     role: "Software Engineer",
     company: "Motus Nova",
-    description: ``,
-    technologies: ["React.js", "Node.js", "PostgreSQL","AWS"],
+    description: `Implemented an AI voice model using Vapi AI and developed a Python-based pipeline to automate sales calls, increasing lead outreach capacity and efficiently reaching hundreds of leads daily. Developed and integrated an AI chatbot for the company’s website, enhancing user engagement and boosting lead generation, increasing the number of leads from the chatbot by 100%. Streamlined insurance processes by automating the creation and dispatch of signable delivery tickets using the DocuSeal API, saving 3-minute processing time per order. Developed a web crawler using SerpAPI to retrieve phone and fax numbers of doctors' offices for patient's medical records and prescriptions, with 78.17% accuracy. Implemented an AI voice model for incoming support that can resolve 30% of all customer inquiries.`,
+    technologies: ["React.js", "Node.js", "PostgreSQL","AWS", "Python", "REST APIs", "OpenAI"],
   },
   {
     year: "August 2024 - September 2024",
