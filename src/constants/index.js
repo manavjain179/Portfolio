@@ -80,7 +80,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "7575 Frankford Rd, Dallas, TX, 75252 ",
+  address: "Atlanta, GA",
   phoneNo: "(+1) 945-244-8745 ",
-  email: "mxj210065@utdallas.edu",
+  email: "manavjain179@gmail.com",
 };
